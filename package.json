@@ -1,0 +1,22 @@
+{
+  "name": "redeco-backend",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao backend da plataforma RedEco, uma rede social voltada para promover ações em prol do desenvolvimento sustentável e conscientização sobre os Objetivos de Desenvolvimento Sustentável (ODS) estabelecidos pela ONU.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beandy-cyber/RedEco-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beandy-cyber/RedEco-server/issues"
+  },
+  "homepage": "https://github.com/beandy-cyber/RedEco-server#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2"
+  }
+}
